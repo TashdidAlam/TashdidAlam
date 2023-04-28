@@ -142,10 +142,6 @@ I'm currently learning Python, AWS, ReactJS, Java Springboot to improve my knowl
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tashdidalam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=tashdidalam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
             
 </div>
 <br/>  
@@ -165,5 +161,5 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
