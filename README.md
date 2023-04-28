@@ -1,5 +1,7 @@
+<div align="center">
+  
 ![devops-banner-concept-development-operation-260nw-2182404347](https://user-images.githubusercontent.com/130019268/234939460-8b29f2a7-6f72-4446-8c4c-eb081104a253.png)
-
+</div>
 
 ## Hi There, I'm Tashdid Alam  
 #### Trainee DevOps Engineer @ BJIT Academy  
@@ -126,7 +128,10 @@ I'm currently learning Python, AWS, ReactJS, Java Springboot to improve my knowl
 
 <br/>
 
+
 # 📊 GitHub Stats:
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=tashdidalam&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tashdidalam&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tashdidalam&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -141,7 +146,8 @@ I'm currently learning Python, AWS, ReactJS, Java Springboot to improve my knowl
 [![](https://visitcount.itsvg.in/api?id=tashdidalam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+            
+</div>
 <br/>  
 
 
