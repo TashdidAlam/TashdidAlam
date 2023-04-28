@@ -4,8 +4,9 @@
 ## Hi There, I'm Tashdid Alam  
 #### Trainee DevOps Engineer @ BJIT Academy  
   
+I'm a tech Enthusiast & passionate DevOps Engineer from Bangladesh. I have a strong foundation in DevOps techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
-- 🌱 I’m currently learning DevOps Tools and Techniques  
+- 🌱 I’m currently learning DevOps Tools like kubernates, terraform etc  
   
 
 - ⚡ Fun fact: I like to learn new skills  
@@ -13,8 +14,17 @@
 
 <br/>  
 
+## 👨🏽‍💻 What I'm working on
+Currently, I am working on BJIT YSDP Project (a Youth Skill Development Program of BJIT Academy) as a Trainee DevOps Engineer.
 
-## My Skill Set  
+<br/>
+
+## 🧠 What I'm currently learning
+I'm currently learning Python, AWS, ReactJS, Java Springboot to improve my knowledge of development trends and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
+
+<br/>
+
+## 🖥️ My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -72,7 +82,7 @@
 <br/>  
 
 
-## Connect with me  
+## 📫 Connect with me  
 <div align="center">
 <a href="https://github.com/TashdidAlam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -91,9 +101,46 @@
 
 <br/>  
 
+## 🌟 Projects
+ - Project Name: Brief description of the project. Technologies used: [List of technologies].
+ - Project Name: Brief description of the project. Technologies used: [List of technologies].
+ - Project Name: Brief description of the project. Technologies used: [List of technologies].
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TashdidAlam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
+
+## 🛠️ Screenshots of Project
+<img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;">
+
+<br/>
+
+## 💻 Work Experience
+- BracNet, Intern, [October,2022 - November,2022] <br/>
+  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
+- BJIT Academy, Trainee DevOps Engineer, [April,2023 - Present]<br />
+  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
+  
+<br/>
+
+## 🎓 Education
+- Hajee Mohammad Danesh Science & Technology University, B.Sc. in Electronincs and Communications Engineering, December 2020
+
+<br/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tashdidalam&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tashdidalam&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tashdidalam&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tashdidalam&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tashdidalam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=tashdidalam&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br/>  
 
@@ -113,3 +160,4 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
