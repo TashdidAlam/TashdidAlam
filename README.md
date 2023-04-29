@@ -6,9 +6,9 @@
 ## Hi There, I'm Tashdid Alam  
 #### Trainee DevOps Engineer @ BJIT Academy  
   
-I'm a tech Enthusiast & passionate DevOps Engineer from Bangladesh. I have a strong foundation in DevOps techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
+I'm a tech Enthusiast & passionate DevOps Engineer from Bangladesh. I have a strong foundation in DevOps technologies and constantly learn new technologies to stay up-to-date with the latest trends.
 
-- 🌱 I’m currently learning DevOps Tools like kubernates, terraform etc  
+- 🌱 I’m currently learning DevOps Tools like Kubernetes, terraform, etc  
   
 
 - ⚡ Fun fact: I like to learn new skills  
@@ -17,12 +17,12 @@ I'm a tech Enthusiast & passionate DevOps Engineer from Bangladesh. I have a str
 <br/>  
 
 ## 👨🏽‍💻 What I'm working on
-Currently, I am working on BJIT YSDP Project (a Youth Skill Development Program of BJIT Academy) as a Trainee DevOps Engineer.
+Currently, I am working on the BJIT YSDP Project (a Youth Skill Development Program of BJIT Academy) as a Trainee DevOps Engineer.
 
 <br/>
 
 ## 🧠 What I'm currently learning
-I'm currently learning Python, AWS, ReactJS, Java Springboot to improve my knowledge of development trends and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
+I'm currently learning Python, AWS, ReactJS, and Java Springboot to improve my knowledge of development trends and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful DevOps Engineer.
 
 <br/>
 
