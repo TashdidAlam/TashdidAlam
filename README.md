@@ -6,18 +6,18 @@
 
 <div align="center">
 
-## 💡 Hi There, I'm Tashdid Alam 
+# 💡 Hi There, I'm Tashdid Alam 
   
 </div>
   
-#### Trainee DevOps Engineer @ BJIT Academy  | UI/UX Designer
+### Trainee DevOps Engineer @ BJIT Academy  | UI/UX Designer
   
 I'm Tashdid Alam, a passionate follower of technology. I am presently employed as a Trainee DevOps Engineer at BJIT Academy, also has in UI/UX design and Frontend Web Development. Additionally, I have gained some experience as an Intern SQA Automation Engineer for a few months. My educational background includes a B.Sc. in Electronics and Communication Engineering from Hajee Mohammad Danesh Science & Technology University.
 
 - 🌱 I’m currently learning DevOps Tools like Kubernetes, terraform, etc  
   
 
-- ⚡ Fun fact: I like to learn new skills  
+- ⚡ Fun fact: I like to learn new skills.
   
 
 <br/>  
