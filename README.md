@@ -132,7 +132,7 @@ I'm currently learning Python, AWS, ReactJS, and Java Springboot to improve my k
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=tashdidalam&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tashdid7068&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tashdidalam&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tashdidalam&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
