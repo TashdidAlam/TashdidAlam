@@ -3,7 +3,8 @@
 ![devops-banner-concept-development-operation-260nw-2182404347](https://user-images.githubusercontent.com/130019268/234939460-8b29f2a7-6f72-4446-8c4c-eb081104a253.png)
 </div>
 
-<div align = 'center'> ## Hi There, I'm Tashdid Alam </div> 
+<div align = 'center'>  ## Hi There, I'm Tashdid Alam  </div> 
+</br>
 #### Trainee DevOps Engineer @ BJIT Academy  
   
 I'm a tech Enthusiast & passionate DevOps Engineer from Bangladesh. I have a strong foundation in DevOps technologies and constantly learn new technologies to stay up-to-date with the latest trends.
