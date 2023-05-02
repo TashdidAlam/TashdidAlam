@@ -4,9 +4,9 @@
 </div>
 
 ## Hi There, I'm Tashdid Alam 
-#### Trainee DevOps Engineer @ BJIT Academy  
+#### Trainee DevOps Engineer @ BJIT Academy  | UI/UX Designer
   
-I'm a tech Enthusiast & passionate DevOps Engineer from Bangladesh. I have a strong foundation in DevOps technologies and constantly learn new technologies to stay up-to-date with the latest trends.
+I'm a tech Enthusiast person from Bangladesh.I'm a part-time Frontend Web Developer and Ui/Ux designer.Also, I have a strong foundation in DevOps technologies and constantly learn new technologies to stay up-to-date with the latest trends.
 
 - 🌱 I’m currently learning DevOps Tools like Kubernetes, terraform, etc  
   
@@ -104,9 +104,12 @@ I'm currently learning Python, AWS, ReactJS, and Java Springboot to improve my k
 <br/>  
 
 ## 🌟 Projects
- - Project Name: Brief description of the project. Technologies used: [List of technologies].
- - Project Name: Brief description of the project. Technologies used: [List of technologies].
- - Project Name: Brief description of the project. Technologies used: [List of technologies].
+ - Project Name: Personal Portfolio Website
+   Technologies Used: HTML, CSS, Vanilla JS.
+ - Project Name: Single Page Restaurant Website.
+   Technologies Used: HTML, Sass, JavaScript.
+ - Project Name: To do list App (UI Design) 
+   Technologies Used: Figma, AdobeXD.
 
 <br/>
 
