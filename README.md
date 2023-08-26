@@ -10,27 +10,30 @@
   
 </div>
   
-### Trainee DevOps Engineer @ BJIT Academy
-  
-I'm Tashdid Alam, a passionate follower of technology. I am presently employed as a Trainee DevOps Engineer at BJIT Academy, also has in UI/UX design and Frontend Web Development. Additionally, I have gained some experience as an Intern SQA Automation Engineer for a few months. My educational background includes a B.Sc. in Electronics and Communication Engineering from Hajee Mohammad Danesh Science & Technology University.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tashdid Alam
+====================================================================================================================================
 
-- 🌱 I’m currently learning DevOps Tools like Kubernetes, terraform, etc  
-  
+DevOps & Cloud Engineer, IT Enthusiast
+--------------------------------------
 
-- ⚡ Fun fact: I like to learn new skills.
-  
+Hey there! 👋 I'm a DevOps and Cloud Engineer at BJIT Ltd, rocking the team player spirit 🤝. My toolkit includes GitLab, Jenkins, Docker, Kubernetes, AWS, and Azure – basically tech wizardry at your service 🧙‍♂️. I'm all about making deployments smoother than butter 🧈 while staying ahead of the tech curve like a pro 🚀. Ready to geek out and make a splash in the DevOps and cloud world? Let's connect and turn some virtual gears! ⚙️🌩️
 
-<br/>  
+* 🌍  I'm based in Dhaka, Bangladesh
+* ✉️  You can contact me at [tashdidnazib@gmail.com](mailto:tashdidnazib@gmail.com)
+* 🧠  I'm learning Azure DevOps, AWS Tools, GitLab, Cybersecurity
+* 🤝  I'm open to collaborating on ML projects, Cybersecurity, ML Ops, DevOps Projects
+* ⚡  "I don't always write documentation, but when I do, I make it more mysterious than a Dan Brown novel. 📜🕵️‍♂️✨"
 
-## 👨🏽‍💻 What I'm working on
-Currently, I am working on the BJIT YSDP Project (a Youth Skill Development Program of BJIT Academy) as a Trainee DevOps Engineer.
+### Skills
 
-<br/>
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
 
-## 🧠 What I'm currently learning
-I'm currently learning Python, AWS, ReactJS, and Java Springboot to improve my knowledge of development trends and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful DevOps Engineer.
+### Socials
 
-<br/>
+<p align="left"> <a href="https://discord.com/users/tashdid68" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/TashdidAlam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/TashdidAlam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/tashdid_nazib" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tashdid-alam68" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/Tashdid_Alam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
 ## 🖥️ My Skill Set  
 <table><tr><td valign="top" width="33%">
