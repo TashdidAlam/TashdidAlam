@@ -188,3 +188,10 @@ If things goes well, this section should automatically be replaced by a list of 
 ----
 
 
+## Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/TashdidAlam/containerized_monitoring_tools" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TashdidAlam&repo=containerized_monitoring_tools&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/TashdidAlam/kodekloud_engineer_tasks" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TashdidAlam&repo=kodekloud_engineer_tasks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br />
+
+<div width="100%" align="center"><a href="https://github.com/TashdidAlam/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TashdidAlam&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/TashdidAlam/Animated_Homepage" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TashdidAlam&repo=Animated_Homepage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
