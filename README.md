@@ -133,18 +133,23 @@ Hey there! 👋 I'm a DevOps and Cloud Engineer at BJIT Ltd, rocking the team pl
 <br/>
 
 ## 💻 Work Experience
-- BracNet, Intern, [October,2022 - November,2022] <br/>
+- BJIT Ltd, Devops & Cloud Engineer, [August,2022 - Present] <br/>
+  Brief description of your role and responsibilities. Achievements or notable projects you worked on.
+- BJIT Academy, Trainee DevOps & Cloud Engineer, [April,2023 - July, 2023]<br />
   Brief description of your role and responsibilities. Achievements or notable projects you worked on.
 - a1qa, Intern SQA Automation Engineer, [February,2023 - March,2023]<br />
   Brief description of your role and responsibilities. Achievements or notable projects you worked on.
-- BJIT Academy, Trainee DevOps Engineer, [April,2023 - Present]<br />
+- BracNet, Intern, [October,2022 - November,2022] <br/>
   Brief description of your role and responsibilities. Achievements or notable projects you worked on.
+
 
   
 <br/>
 
 ## 🎓 Education
-- Hajee Mohammad Danesh Science & Technology University, B.Sc. in Electronincs and Communications Engineering, December 2020
+- Hajee Mohammad Danesh Science & Technology University, B.Sc. in Electronincs and Communications Engineering, December 2022
+- Notre Dame College, H.S.C in Science, 2015
+- B.L. Govt. High School, S.S.C in Science, 2013
 
 <br/>
 
